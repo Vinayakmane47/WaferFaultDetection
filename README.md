@@ -1,4 +1,4 @@
-# Wafer Fault Detection
+# Sensor Based Wafer Fault Detection
 
 ### 1.About the Project:
 
