@@ -1,5 +1,7 @@
 # Sensor Based Wafer Fault Detection
 
+### App URL : https://wferproject47.herokuapp.com/
+
 ### 1.About the Project:
 
 The name of the project is Wafer Fault Detection.
